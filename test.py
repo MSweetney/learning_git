@@ -19,6 +19,9 @@ else: print('dfsdfdfdfsdfdfs')
 
 #Here is comment to fill some lines
 
+def summ(x,y):
+    return x+y
+
 
 
 
